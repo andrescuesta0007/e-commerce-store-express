@@ -51,3 +51,4 @@ sequelize
   .catch((err) => {
     console.error("Sequelize Initialisation threw an error:", err);
   });
+  
